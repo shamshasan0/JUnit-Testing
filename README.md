@@ -5,3 +5,10 @@ For methods that can throw exceptions, include tests for each expected exception
 Use @Test(expected = <exception class>) for exception testing and add brief comments to describe each test.
 
 ### Tools Used: Java, JUnit 5.0, IntelliJ
+
+
+
+#### Files: 
+##### **MyCustomString.java**: contains the Java code logic to be tested. 
+##### **MyCustomStringTest.java**: contains the JUnit test cases for the MyCustomString.java class.
+
