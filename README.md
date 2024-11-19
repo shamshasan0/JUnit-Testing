@@ -10,5 +10,5 @@ Use @Test(expected = <exception class>) for exception testing and add brief comm
 
 #### Files: 
 ##### [**MyCustomString.java**](https://github.com/shamshasan0/JUnit-Testing/blob/main/src/edu/kennesaw/seclass/MyCustomString.java) - contains the Java code logic to be tested. 
-##### [**MyCustomStringTest.java**](https://github.com/shamshasan0/JUnit-Testing/blob/main/test/edu/kennesaw/seclass/MyCustomStringTest.java) - contains the JUnit test cases for the MyCustomString.java class.
+##### [**MyCustomStringTest.java**](https://github.com/shamshasan0/JUnit-Testing/blob/main/src/edu/kennesaw/seclass/MyCustomStringTest.java) - contains the JUnit test cases for the MyCustomString.java class.
 
